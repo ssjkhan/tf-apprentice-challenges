@@ -7,5 +7,5 @@
 | Anastasiia |Anastasiia is here|
 | Saad       | clickity  |
 | Kira       |           |
-| Oksana     |           |
+| Oksana     |   Hello!   |
 | Ryan       |           |
