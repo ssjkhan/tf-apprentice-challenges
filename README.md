@@ -4,7 +4,7 @@
 
 | Name       | Sign - In |
 | ---------- | --------- |
-| Anastasiia |           |
+| Anastasiia |Anastasiia is here|
 | Kira       |           |
 | Oksana     |           |
 | Ryan       |           |
