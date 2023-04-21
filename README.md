@@ -1,0 +1,1 @@
+# Fullstack boilerplate for apprentices
