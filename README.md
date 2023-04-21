@@ -5,6 +5,6 @@
 | Name       | Sign - In |
 | ---------- | --------- |
 | Anastasiia |           |
-| Kira       |           |
+| Kira       |  it me    |
 | Oksana     |           |
 | Ryan       |           |
