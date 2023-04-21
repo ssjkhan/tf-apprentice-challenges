@@ -6,5 +6,5 @@
 | ---------- | --------- |
 | Anastasiia |           |
 | Kira       |           |
-| Oksana     |           |
+| Oksana     |   Hello   |
 | Ryan       |           |
