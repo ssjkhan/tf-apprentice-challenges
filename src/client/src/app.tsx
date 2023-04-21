@@ -1,5 +1,6 @@
 import SaadCard from "./components/Saad";
 import AnastasiiaCard from '../components/Anastasiia'
+import OksanaCard from "./components/Oksana";
 
 export function App() {
   return (
@@ -8,6 +9,7 @@ export function App() {
         Clean App
         <SaadCard />
         <AnastasiiaCard />
+        <OksanaCard />
       </div>
     </div>
   );
