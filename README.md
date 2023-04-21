@@ -4,8 +4,8 @@
 
 | Name       | Sign - In |
 | ---------- | --------- |
+| Kira       |  it me    |
 | Anastasiia |Anastasiia is here|
 | Saad       | clickity  |
-| Kira       |           |
 | Oksana     |   Hello!   |
 | Ryan       |           |
